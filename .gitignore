@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+*.tfvars
+*.tfvars.json
+*.zip
+
+# Terraform generated files
+*.zip
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
